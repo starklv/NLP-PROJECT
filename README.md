@@ -1,2 +1,2 @@
 # NLP-PROJECT
-Some implementations of NLP models
+1.用TEXTCNN模型来处理
