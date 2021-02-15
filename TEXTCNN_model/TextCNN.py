@@ -40,5 +40,5 @@ class TextCNN(keras.Model):
         outputs = self.classifier(x)
         return outputs
 
-
+# askda;
 
