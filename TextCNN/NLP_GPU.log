@@ -1,0 +1,52 @@
+03/09/2021 09:19:42 AM - INFO - 
+ Using GPU, 0 device available
+03/09/2021 09:25:12 AM - INFO - 
+ Using GPU, 0 device available
+03/09/2021 09:31:33 AM - INFO - 
+ Using GPU, 1 device available
+03/09/2021 09:41:07 AM - DEBUG - diff parser start
+03/09/2021 09:41:07 AM - DEBUG - line_lengths old: 1; new: 2
+03/09/2021 09:41:07 AM - DEBUG - -> code[replace] old[1:1] new[1:2]
+03/09/2021 09:41:07 AM - DEBUG - parse_part from 1 to 2 (to 1 in part parser)
+03/09/2021 09:41:07 AM - DEBUG - diff parser end
+03/09/2021 09:41:07 AM - DEBUG - pickle loaded: d:\anaconda\envs\gluon1\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+03/09/2021 09:41:07 AM - DEBUG - pickle loaded: d:\anaconda\envs\gluon1\lib\imp.py
+03/09/2021 09:41:07 AM - DEBUG - pickle loaded: d:\anaconda\envs\gluon1\lib\site-packages\jedi\third_party\typeshed\stdlib\3\imp.pyi
+03/09/2021 09:41:22 AM - DEBUG - diff parser start
+03/09/2021 09:41:22 AM - DEBUG - line_lengths old: 2; new: 2
+03/09/2021 09:41:22 AM - DEBUG - -> code[equal] old[1:1] new[1:1]
+03/09/2021 09:41:22 AM - DEBUG - copy old[1:1] new[1:1]
+03/09/2021 09:41:22 AM - DEBUG - -> code[replace] old[2:2] new[2:2]
+03/09/2021 09:41:22 AM - DEBUG - parse_part from 2 to 2 (to 1 in part parser)
+03/09/2021 09:41:22 AM - DEBUG - diff parser end
+03/09/2021 09:43:41 AM - INFO - 
+ Using GPU, 1 device available
+03/09/2021 09:48:16 AM - DEBUG - diff parser start
+03/09/2021 09:48:16 AM - DEBUG - line_lengths old: 2; new: 1
+03/09/2021 09:48:16 AM - DEBUG - -> code[replace] old[1:2] new[1:1]
+03/09/2021 09:48:16 AM - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+03/09/2021 09:48:16 AM - DEBUG - diff parser end
+03/09/2021 15:32:59 PM - INFO - 
+ Using GPU, 1 device available
+03/10/2021 23:11:22 PM - INFO - 
+ Using GPU, 1 device available
+03/10/2021 23:16:13 PM - DEBUG - diff parser start
+03/10/2021 23:16:13 PM - DEBUG - line_lengths old: 1; new: 1
+03/10/2021 23:16:13 PM - DEBUG - -> code[replace] old[1:1] new[1:1]
+03/10/2021 23:16:13 PM - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+03/10/2021 23:16:13 PM - DEBUG - diff parser end
+03/10/2021 23:16:13 PM - DEBUG - pickle loaded: d:\anaconda\envs\gluon1\lib\site-packages\torch\nn\__init__.py
+03/10/2021 23:16:13 PM - DEBUG - pickle loaded: d:\anaconda\envs\gluon1\lib\site-packages\torch\nn\modules\__init__.py
+03/10/2021 23:16:13 PM - DEBUG - pickle loaded: d:\anaconda\envs\gluon1\lib\site-packages\torch\nn\modules\module.py
+03/10/2021 23:19:30 PM - DEBUG - diff parser start
+03/10/2021 23:19:30 PM - DEBUG - line_lengths old: 1; new: 1
+03/10/2021 23:19:30 PM - DEBUG - -> code[replace] old[1:1] new[1:1]
+03/10/2021 23:19:30 PM - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+03/10/2021 23:19:30 PM - DEBUG - diff parser end
+03/10/2021 23:19:31 PM - DEBUG - diff parser start
+03/10/2021 23:19:31 PM - DEBUG - line_lengths old: 1; new: 1
+03/10/2021 23:19:31 PM - DEBUG - -> code[replace] old[1:1] new[1:1]
+03/10/2021 23:19:31 PM - DEBUG - parse_part from 1 to 1 (to 0 in part parser)
+03/10/2021 23:19:31 PM - DEBUG - diff parser end
+03/11/2021 00:08:39 AM - INFO - 
+ Using GPU, 1 device available
